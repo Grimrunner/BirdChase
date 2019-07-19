@@ -1,0 +1,987 @@
+﻿Log file open, 06/05/19 10:15:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BirdChase
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.626615
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Engine.ini]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Engine.ini]
+[2019.06.05-08.15.28:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Engine.ini]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Engine.ini]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.05-08.15.28:163][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.05-08.15.28:164][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.05-08.15.28:164][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.05-08.15.28:164][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Engine.ini]
+[2019.06.05-08.15.28:164][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Engine.ini]
+[2019.06.05-08.15.28:265][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.05-08.15.28:265][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.05-08.15.28:291][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.05-08.15.28:291][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.05-08.15.28:384][  0]LogHAL: Display: Platform has ~ 16 GB [17104371712 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.05-08.15.28:387][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.06.05-08.15.28:387][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.05-08.15.28:396][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.05-08.15.28:396][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.05-08.15.28:397][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.05-08.15.28:406][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.05-08.15.28:406][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.06.05-08.15.28:406][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Config/Windows/Engine.ini]
+[2019.06.05-08.15.28:437][  0]LogInit: Computer: JELMER-SUPERPC
+[2019.06.05-08.15.28:437][  0]LogInit: User: Jelmer
+[2019.06.05-08.15.28:437][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.05-08.15.28:437][  0]LogInit: High frequency timer resolution =3.417985 MHz
+[2019.06.05-08.15.28:437][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.05-08.15.28:437][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.05-08.15.28:437][  0]LogMemory: Process Physical Memory: 96.41 MB used, 96.41 MB peak
+[2019.06.05-08.15.28:437][  0]LogMemory: Process Virtual Memory: 91.80 MB used, 91.80 MB peak
+[2019.06.05-08.15.28:437][  0]LogMemory: Physical Memory: 9574.21 MB used,  6737.79 MB free, 16312.00 MB total
+[2019.06.05-08.15.28:437][  0]LogMemory: Virtual Memory: 4645.02 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.06.05-08.15.29:584][  0]LogInit: Using OS detected language (en-US).
+[2019.06.05-08.15.29:584][  0]LogInit: Using OS detected locale (nl-NL).
+[2019.06.05-08.15.29:638][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.05-08.15.30:857][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.05-08.15.31:929][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.05-08.15.31:929][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.05-08.15.34:342][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2019.06.05-08.15.34:342][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.05-08.15.34:389][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.06.05-08.15.34:389][  0]LogD3D11RHI:       4058/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.06.05-08.15.34:390][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.05-08.15.34:390][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.05-08.15.34:391][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.05-08.15.34:442][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.05-08.15.34:442][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.05-08.15.34:443][  0]LogWindows: EnumDisplayDevices:
+[2019.06.05-08.15.34:443][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.06.05-08.15.34:443][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.06.05-08.15.34:443][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.06.05-08.15.34:443][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.06.05-08.15.34:443][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.05-08.15.34:443][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.06.05-08.15.34:443][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.06.05-08.15.34:443][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.06.05-08.15.34:443][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2019.06.05-08.15.34:574][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.05-08.15.34:674][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.05-08.15.34:678][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.05-08.15.34:678][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.05-08.15.34:705][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.05-08.15.36:930][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.06.05-08.15.36:962][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.06.05-08.15.36:994][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.06.05-08.15.37:047][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.06.05-08.15.37:158][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.06.05-08.15.37:236][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.06.05-08.15.37:258][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.06.05-08.15.37:309][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.06.05-08.15.37:343][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.06.05-08.15.37:528][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.06.05-08.15.37:572][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.06.05-08.15.37:809][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.06.05-08.15.37:809][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.06.05-08.15.37:855][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.06.05-08.15.37:855][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.06.05-08.15.37:919][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.06.05-08.15.37:977][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.06.05-08.15.38:070][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.06.05-08.15.38:176][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.06.05-08.15.38:318][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.06.05-08.15.38:318][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.06.05-08.15.38:318][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.05-08.15.38:553][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.06.05-08.15.39:474][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Intermediate/Shaders/WorkingDirectory/135116/).
+[2019.06.05-08.15.39:474][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jelmer/AppData/Local/Temp/UnrealShaderWorkingDir/E13FD60047E45B3D755F588E2B4D33E5/'.
+[2019.06.05-08.15.39:485][  0]LogXGEController: Cleaning working directory: C:/Users/Jelmer/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.05-08.15.39:486][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.05-08.15.39:487][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.05-08.15.39:487][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.05-08.15.45:189][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.05-08.15.45:757][  0]LogDerivedDataCache: Loaded boot cache 0.55s 71MB C:/Users/Jelmer/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.05-08.15.45:757][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jelmer/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.06.05-08.15.45:757][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.05-08.15.45:757][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.05-08.15.45:757][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.05-08.15.45:757][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.05-08.15.45:874][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.05-08.15.45:874][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.05-08.15.45:874][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.05-08.15.45:937][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jelmer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.05-08.15.45:937][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.05-08.15.45:937][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.05-08.15.45:990][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.05-08.15.46:059][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.05-08.15.46:245][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.05-08.15.47:120][  0]LogAssetRegistry: FAssetRegistry took 0.0340 seconds to start up
+[2019.06.05-08.15.50:680][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.05-08.15.53:868][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.05-08.15.53:868][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.06.05-08.15.53:868][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.05-08.15.53:868][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.06.05-08.15.53:868][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.06.05-08.15.54:424][  0]LogNetVersion: BirdChase 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 355883396)
+[2019.06.05-08.16.00:817][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.104712 seconds
+[2019.06.05-08.16.00:852][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.06.05-08.16.00:852][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.06.05-08.16.00:852][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.05-08.16.13:523][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.05-08.16.13:563][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.05-08.16.14:468][  0]SourceControl: Source control is disabled
+[2019.06.05-08.16.14:488][  0]SourceControl: Source control is disabled
+[2019.06.05-08.16.14:582][  0]SourceControl: Source control is disabled
+[2019.06.05-08.16.14:609][  0]SourceControl: Source control is disabled
+[2019.06.05-08.16.14:787][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.06.05-08.16.14:787][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.06.05-08.16.16:617][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.05-08.16.17:404][  0]LogOcInput: OculusInput pre-init called
+[2019.06.05-08.16.19:577][  0]LogEngine: Initializing Engine...
+[2019.06.05-08.16.19:610][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2019.06.05-08.16.19:611][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.06.05-08.16.20:389][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.05-08.16.20:777][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.05-08.16.20:985][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.05-08.16.21:107][  0]LogInit: FAudioDevice initialized.
+[2019.06.05-08.16.21:107][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.05-08.16.21:249][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/Jelmer/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.05-08.16.21:259][  0]LogInit: Texture streaming: Enabled
+[2019.06.05-08.16.21:492][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.05-08.16.21:808][  0]LogInit: Transaction tracking system initialized
+[2019.06.05-08.16.22:555][  0]BlueprintLog: New page: Editor Load
+[2019.06.05-08.16.24:025][  0]LocalizationService: Localization service is disabled
+[2019.06.05-08.16.25:587][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.06.05-08.16.25:587][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.06.05-08.16.28:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Content/' took 0.02s
+[2019.06.05-08.16.28:310][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.05-08.16.28:310][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.05-08.16.31:909][  0]SourceControl: Source control is disabled
+[2019.06.05-08.16.31:937][  0]Cmd: MAP LOAD FILE="C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.05-08.16.32:021][  0]LightingResults: New page: Lighting Build
+[2019.06.05-08.16.32:198][  0]MapCheck: New page: Map Check
+[2019.06.05-08.16.32:198][  0]LightingResults: New page: Lighting Build
+[2019.06.05-08.16.32:581][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.06.05-08.16.34:974][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.06.05-08.16.35:650][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.05-08.16.35:875][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.06.05-08.16.35:875][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.05-08.16.35:875][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,138ms to complete.
+[2019.06.05-08.16.35:875][  0]LogFileHelpers: Loading map 'Minimal_Default' took 3.950
+[2019.06.05-08.16.37:472][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-08.16.37:480][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-08.16.37:487][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-08.16.37:495][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-08.16.37:597][  0]LogCollectionManager: Loaded 0 collections in 0.023651 seconds
+[2019.06.05-08.16.37:658][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Collections/' took 0.01s
+[2019.06.05-08.16.37:658][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Content/Developers/Jelmer/Collections/' took 0.00s
+[2019.06.05-08.16.37:658][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Content/Collections/' took 0.00s
+[2019.06.05-08.16.37:658][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.05-08.16.37:666][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2732 classes and 659 folders.
+[2019.06.05-08.16.37:712][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.05-08.16.37:880][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.37:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.37:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:089][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:094][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:173][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:177][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:231][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:257][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:261][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:290][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:294][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:404][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:409][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:414][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.38:419][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-08.16.39:496][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.05-08.16.39:534][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.05-08.16.40:398][  0]LogSlate: Took 0.026949 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.05-08.16.40:431][  0]LogSlate: Took 0.031827 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.05-08.16.40:456][  0]LogSlate: Took 0.020624 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.05-08.16.41:059][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.06.05-08.16.41:616][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.05-08.16.41:616][  0]LogLoad: (Engine Initialization) Total time: 100.49 seconds
+[2019.06.05-08.16.41:616][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.05-08.16.41:908][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.05-08.16.42:052][  0]LogSlate: Took 0.081269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.05-08.16.42:154][  1]LogAssetRegistry: Asset discovery search completed in 55.0565 seconds
+[2019.06.05-08.16.42:199][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.05-08.16.42:199][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2019.06.05-08.24.18:136][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-08.24.21:575][199]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.05-08.24.26:461][199]LogAIModule: Creating AISystem for world Test
+[2019.06.05-08.24.26:493][199]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/Test.Test
+[2019.06.05-08.24.26:610][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.06.05-08.24.26:619][199]Cmd: MAP LOAD FILE="C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Content/Levels/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.05-08.24.26:619][199]LightingResults: New page: Lighting Build
+[2019.06.05-08.24.26:620][199]LoadErrors: New page: Loading map: Test.umap
+[2019.06.05-08.24.26:652][199]MapCheck: New page: Map Check
+[2019.06.05-08.24.26:652][199]LightingResults: New page: Lighting Build
+[2019.06.05-08.24.26:730][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.06.05-08.24.26:919][199]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.05-08.24.26:956][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.06.05-08.24.26:979][199]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.05-08.24.26:979][199]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,113ms to complete.
+[2019.06.05-08.24.26:979][199]LogFileHelpers: Loading map 'Test' took 0.368
+[2019.06.05-08.41.24:474][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-08.41.24:566][395]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.05-08.41.24:616][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-08.41.24:616][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.05-08.41.24:666][395]PIE: New page: PIE session: Test (5 jun. 2019 12:41:24)
+[2019.06.05-08.41.24:727][395]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2019.06.05-08.41.24:733][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005636s)
+[2019.06.05-08.41.24:733][395]LogAIModule: Creating AISystem for world Test
+[2019.06.05-08.41.24:734][395]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2019.06.05-08.41.24:734][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.006817s)
+[2019.06.05-08.41.24:755][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.06.05-08.41.24:797][395]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.05-08.41.24:814][395]LogInit: FAudioDevice initialized.
+[2019.06.05-08.41.24:852][395]LogLoad: Game class is 'GameMode1_C'
+[2019.06.05-08.41.24:881][395]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.06.05-10.41.24
+[2019.06.05-08.41.24:899][395]LogWorld: Bringing up level for play took: 0.019440
+[2019.06.05-08.41.25:020][395]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.06.05-08.41.25:147][395]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test 1,257
+[2019.06.05-08.41.25:147][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-08.42.13:100][584]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.05-08.42.13:121][584]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.05-08.44.53:834][768]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-08.44.53:834][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-08.44.53:880][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.05-08.44.53:881][768]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-08.44.53:907][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-08.44.53:910][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.06.05-08.44.53:935][770]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.06.05-09.04.21:245][952]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.05-09.04.26:943][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.04.27:018][579]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.05-09.04.27:029][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.04.27:029][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.05-09.04.27:029][579]PIE: New page: PIE session: Test (5 jun. 2019 13:04:27)
+[2019.06.05-09.04.27:029][579]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2019.06.05-09.04.27:034][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004453s)
+[2019.06.05-09.04.27:035][579]LogAIModule: Creating AISystem for world Test
+[2019.06.05-09.04.27:035][579]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2019.06.05-09.04.27:035][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.005567s)
+[2019.06.05-09.04.27:056][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.06.05-09.04.27:085][579]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.05-09.04.27:100][579]LogInit: FAudioDevice initialized.
+[2019.06.05-09.04.27:129][579]LogLoad: Game class is 'GameMode1_C'
+[2019.06.05-09.04.27:132][579]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.06.05-11.04.27
+[2019.06.05-09.04.27:132][579]LogWorld: Bringing up level for play took: 0.001978
+[2019.06.05-09.04.27:146][579]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test -0,744
+[2019.06.05-09.04.27:146][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.04.30:159][933]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.04.30:159][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-09.04.30:189][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.05-09.04.30:190][933]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.04.30:214][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-09.04.30:217][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.06.05-09.04.30:259][937]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.06.05-09.04.36:929][657]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.05-09.04.43:937][465]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BIrd.BIrd
+[2019.06.05-09.04.44:955][465]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.06.05-09.04.46:598][465]LogSlate: Took 0.017322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.05-09.04.48:308][576]LogSlate: Took 0.004965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.05-09.04.51:523][829]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.06.05-09.04.54:452][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.05.08:783][463]LogEditorTransaction: Undo Modify Component(s)
+[2019.06.05-09.05.14:404][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.05.17:745][433]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.05-09.05.17:760][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.05.17:760][433]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.05-09.05.17:796][433]LogPlayLevel: [PlayLevel] Compiling BIrd before play...
+[2019.06.05-09.05.18:103][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.06.05-09.05.18:103][433]LogPlayLevel: PlayLevel: Blueprint regeneration took 343 ms (1 blueprints)
+[2019.06.05-09.05.18:103][433]PIE: New page: PIE session: Test (5 jun. 2019 13:05:18)
+[2019.06.05-09.05.18:104][433]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2019.06.05-09.05.18:108][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004039s)
+[2019.06.05-09.05.18:109][433]LogAIModule: Creating AISystem for world Test
+[2019.06.05-09.05.18:109][433]LogPlayLevel: PIE: World Init took: (0.001166s)
+[2019.06.05-09.05.18:109][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.005667s)
+[2019.06.05-09.05.18:140][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.06.05-09.05.18:148][433]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.05-09.05.18:162][433]LogInit: FAudioDevice initialized.
+[2019.06.05-09.05.18:190][433]LogLoad: Game class is 'GameMode1_C'
+[2019.06.05-09.05.18:192][433]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.06.05-11.05.18
+[2019.06.05-09.05.18:193][433]LogWorld: Bringing up level for play took: 0.001906
+[2019.06.05-09.05.18:206][433]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test 0,317
+[2019.06.05-09.05.18:207][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.05.48:199][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.05.48:200][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-09.05.48:230][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.05-09.05.48:230][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.05.48:265][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-09.05.48:269][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.06.05-09.05.48:304][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.06.05-09.06.14:600][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.05-09.06.55:497][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.06.05-09.06.55:497][252]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Test' took 0.034
+[2019.06.05-09.06.55:529][252]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BIrd] ([1] browsable assets)...
+[2019.06.05-09.06.55:568][252]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BIrd.BIrd]
+[2019.06.05-09.06.55:568][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BIrd]
+[2019.06.05-09.06.55:568][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BIrd" FILE="C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Autosaves/Game/Blueprints/BIrd_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.06.05-09.06.56:012][252]LogSavePackage: Moving 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/BIrd_Auto1850E9B4748FA1429EB8079995CE367B0.tmp' to 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Autosaves/Game/Blueprints/BIrd_Auto1.uasset'
+[2019.06.05-09.06.56:076][252]LogFileHelpers: Auto-saving content packages took 0.578
+[2019.06.05-09.09.40:665][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.09.47:724][308]LogEditorTransaction: Undo Modify Component(s)
+[2019.06.05-09.09.50:652][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.09.54:714][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.10.11:413][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.10.15:860][932]LogEditorTransaction: Undo Modify Component(s)
+[2019.06.05-09.10.17:901][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.10.21:445][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.10.25:359][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.10.28:205][246]LogEditorTransaction: Undo Modify Component(s)
+[2019.06.05-09.10.28:664][281]LogEditorTransaction: Undo Modify Component(s)
+[2019.06.05-09.10.35:775][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.10.45:454][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.10.58:075][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.11.12:448][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.11.22:349][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.11.41:807][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.11.56:508][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.12.23:885][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.12.33:615][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.12.34:053][490]BlueprintLog: New page: Compile BIrd
+[2019.06.05-09.12.34:713][490]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.06.05-09.12.35:298][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BIrd" FILE="C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Content/Blueprints/BIrd.uasset" SILENT=true
+[2019.06.05-09.12.35:399][525]LogSavePackage: Moving 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/BIrd566EC721450B84731885AAAEF146C34B.tmp' to 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Content/Blueprints/BIrd.uasset'
+[2019.06.05-09.12.37:228][711]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.05-09.12.37:244][711]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.12.37:244][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.05-09.12.37:244][711]PIE: New page: PIE session: Test (5 jun. 2019 13:12:37)
+[2019.06.05-09.12.37:244][711]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2019.06.05-09.12.37:248][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003973s)
+[2019.06.05-09.12.37:249][711]LogAIModule: Creating AISystem for world Test
+[2019.06.05-09.12.37:249][711]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2019.06.05-09.12.37:249][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.004927s)
+[2019.06.05-09.12.37:281][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.06.05-09.12.37:290][711]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.05-09.12.37:305][711]LogInit: FAudioDevice initialized.
+[2019.06.05-09.12.37:330][711]LogLoad: Game class is 'GameMode1_C'
+[2019.06.05-09.12.37:332][711]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.06.05-11.12.37
+[2019.06.05-09.12.37:333][711]LogWorld: Bringing up level for play took: 0.001845
+[2019.06.05-09.12.37:346][711]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test -0,544
+[2019.06.05-09.12.37:346][711]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.13.06:465][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.13.06:466][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-09.13.06:497][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.05-09.13.06:498][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.13.06:534][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-09.13.06:538][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.06.05-09.13.06:568][195]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.06.05-09.13.14:018][999]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.05-09.13.38:984][372]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.05-09.13.38:999][372]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.13.39:000][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.05-09.13.39:000][372]PIE: New page: PIE session: Test (5 jun. 2019 13:13:39)
+[2019.06.05-09.13.39:000][372]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2019.06.05-09.13.39:004][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004099s)
+[2019.06.05-09.13.39:005][372]LogAIModule: Creating AISystem for world Test
+[2019.06.05-09.13.39:005][372]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2019.06.05-09.13.39:005][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.005142s)
+[2019.06.05-09.13.39:033][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.06.05-09.13.39:042][372]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.05-09.13.39:055][372]LogInit: FAudioDevice initialized.
+[2019.06.05-09.13.39:081][372]LogLoad: Game class is 'GameMode1_C'
+[2019.06.05-09.13.39:083][372]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.06.05-11.13.39
+[2019.06.05-09.13.39:083][372]LogWorld: Bringing up level for play took: 0.001694
+[2019.06.05-09.13.39:097][372]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test -0,793
+[2019.06.05-09.13.39:097][372]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.14.23:426][676]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.14.23:426][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-09.14.23:458][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.05-09.14.23:459][676]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.14.23:493][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-09.14.23:497][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.06.05-09.14.23:533][679]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.06.05-09.14.27:167][863]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.05-09.14.43:615][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.14.43:683][320]BlueprintLog: New page: Compile BIrd
+[2019.06.05-09.14.43:894][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.06.05-09.15.21:364][696]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.05-09.15.21:380][696]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.15.21:380][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.05-09.15.21:380][696]PIE: New page: PIE session: Test (5 jun. 2019 13:15:21)
+[2019.06.05-09.15.21:380][696]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2019.06.05-09.15.21:385][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004575s)
+[2019.06.05-09.15.21:386][696]LogAIModule: Creating AISystem for world Test
+[2019.06.05-09.15.21:386][696]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2019.06.05-09.15.21:386][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.005399s)
+[2019.06.05-09.15.21:417][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.06.05-09.15.21:425][696]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.05-09.15.21:438][696]LogInit: FAudioDevice initialized.
+[2019.06.05-09.15.21:469][696]LogLoad: Game class is 'GameMode1_C'
+[2019.06.05-09.15.21:471][696]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.06.05-11.15.21
+[2019.06.05-09.15.21:471][696]LogWorld: Bringing up level for play took: 0.001830
+[2019.06.05-09.15.21:485][696]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test -0,405
+[2019.06.05-09.15.21:485][696]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.16.21:237][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.16.21:237][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-09.16.21:271][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.05-09.16.21:272][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.16.21:304][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-09.16.21:308][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.06.05-09.16.21:356][893]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.06.05-09.17.42:995][226]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.05-09.17.50:237][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.17.50:297][896]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.05-09.17.50:314][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.17.50:314][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.05-09.17.50:314][896]PIE: New page: PIE session: Test (5 jun. 2019 13:17:50)
+[2019.06.05-09.17.50:315][896]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2019.06.05-09.17.50:319][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004104s)
+[2019.06.05-09.17.50:319][896]LogAIModule: Creating AISystem for world Test
+[2019.06.05-09.17.50:320][896]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2019.06.05-09.17.50:320][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.005204s)
+[2019.06.05-09.17.50:346][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.06.05-09.17.50:354][896]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.05-09.17.50:368][896]LogInit: FAudioDevice initialized.
+[2019.06.05-09.17.50:397][896]LogLoad: Game class is 'GameMode1_C'
+[2019.06.05-09.17.50:399][896]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.06.05-11.17.50
+[2019.06.05-09.17.50:399][896]LogWorld: Bringing up level for play took: 0.001579
+[2019.06.05-09.17.50:413][896]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test 0,523
+[2019.06.05-09.17.50:413][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.18.26:304][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.18.26:304][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-09.18.26:335][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.05-09.18.26:336][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.18.26:370][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-09.18.26:374][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.06.05-09.18.26:422][636]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.06.05-09.19.11:373][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.05-09.19.17:813][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.19.17:885][468]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.05-09.19.17:902][468]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.19.17:903][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.05-09.19.17:903][468]PIE: New page: PIE session: Test (5 jun. 2019 13:19:17)
+[2019.06.05-09.19.17:903][468]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2019.06.05-09.19.17:907][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004409s)
+[2019.06.05-09.19.17:908][468]LogAIModule: Creating AISystem for world Test
+[2019.06.05-09.19.17:908][468]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2019.06.05-09.19.17:908][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.005155s)
+[2019.06.05-09.19.17:938][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.06.05-09.19.17:947][468]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.05-09.19.17:961][468]LogInit: FAudioDevice initialized.
+[2019.06.05-09.19.17:990][468]LogLoad: Game class is 'GameMode1_C'
+[2019.06.05-09.19.17:992][468]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.06.05-11.19.17
+[2019.06.05-09.19.17:992][468]LogWorld: Bringing up level for play took: 0.001556
+[2019.06.05-09.19.18:006][468]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test 0,116
+[2019.06.05-09.19.18:006][468]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.19.19:187][584]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.19.19:187][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-09.19.19:215][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.05-09.19.19:216][584]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.19.19:248][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-09.19.19:253][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.06.05-09.19.19:287][586]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.06.05-09.19.22:668][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.19.22:834][922]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Dragon.Dragon
+[2019.06.05-09.20.11:381][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.20.30:110][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.21.04:483][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.06.05-09.21.04:483][ 22]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Test' took 0.029
+[2019.06.05-09.21.04:484][ 22]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BIrd] ([1] browsable assets)...
+[2019.06.05-09.21.04:512][ 22]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BIrd.BIrd]
+[2019.06.05-09.21.04:512][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BIrd]
+[2019.06.05-09.21.04:512][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BIrd" FILE="C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Autosaves/Game/Blueprints/BIrd_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.06.05-09.21.04:618][ 22]LogSavePackage: Moving 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/BIrd_Auto2646B873D4C88A11C44B436B7FE095449.tmp' to 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Autosaves/Game/Blueprints/BIrd_Auto2.uasset'
+[2019.06.05-09.21.04:620][ 22]LogFileHelpers: Auto-saving content packages took 0.136
+[2019.06.05-09.21.31:466][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.21.40:362][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.21.45:620][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.21.51:550][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.21.55:765][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.22.01:189][961]LogEditorTransaction: Undo Modify Component(s)
+[2019.06.05-09.22.01:632][  2]LogEditorTransaction: Undo Attach Component
+[2019.06.05-09.22.03:392][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.22.08:569][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.26.39:244][778]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.05-09.31.05:032][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.06.05-09.31.05:057][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Test" FILE="C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Autosaves/Game/Levels/Test_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.06.05-09.31.05:256][931]LogSavePackage: Moving 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Test_Auto3941C244E433FF492E74C53A8A9D6E06A.tmp' to 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Autosaves/Game/Levels/Test_Auto3.umap'
+[2019.06.05-09.31.05:258][931]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Test' took 0.258
+[2019.06.05-09.31.05:258][931]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.258
+[2019.06.05-09.31.05:260][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Dragon] ([1] browsable assets)...
+[2019.06.05-09.31.05:289][931]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Dragon.Dragon]
+[2019.06.05-09.31.05:289][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Dragon]
+[2019.06.05-09.31.05:289][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dragon" FILE="C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Autosaves/Game/Blueprints/Dragon_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.06.05-09.31.05:326][931]LogSavePackage: Moving 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Dragon_Auto377AE47304A8E08F11A1B048006EDB266.tmp' to 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Autosaves/Game/Blueprints/Dragon_Auto3.uasset'
+[2019.06.05-09.31.05:326][931]LogFileHelpers: Auto-saving content packages took 0.067
+[2019.06.05-09.55.27:497][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.55.41:292][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-09.58.31:087][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.06.05-09.58.31:087][410]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Test' took 0.034
+[2019.06.05-09.58.31:088][410]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Dragon] ([1] browsable assets)...
+[2019.06.05-09.58.31:100][410]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Dragon.Dragon]
+[2019.06.05-09.58.31:100][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Dragon]
+[2019.06.05-09.58.31:100][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dragon" FILE="C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Autosaves/Game/Blueprints/Dragon_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.06.05-09.58.31:141][410]LogSavePackage: Moving 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Dragon_Auto4D4234C2547EF021CCFF8ABAA7D03CCA8.tmp' to 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/Autosaves/Game/Blueprints/Dragon_Auto4.uasset'
+[2019.06.05-09.58.31:142][410]LogFileHelpers: Auto-saving content packages took 0.054
+[2019.06.05-09.59.01:363][527]BlueprintLog: New page: Compile Dragon
+[2019.06.05-09.59.01:524][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.06.05-09.59.18:785][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BIrd" FILE="C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Content/Blueprints/BIrd.uasset" SILENT=true
+[2019.06.05-09.59.18:880][145]LogSavePackage: Moving 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Saved/BIrdDC47AD524550832AFEC7E8B0D96F9EF2.tmp' to 'C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Content/Blueprints/BIrd.uasset'
+[2019.06.05-09.59.20:816][346]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.05-09.59.20:838][346]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-09.59.20:838][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.05-09.59.20:838][346]PIE: New page: PIE session: Test (5 jun. 2019 13:59:20)
+[2019.06.05-09.59.20:838][346]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Test
+[2019.06.05-09.59.20:843][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004717s)
+[2019.06.05-09.59.20:843][346]LogAIModule: Creating AISystem for world Test
+[2019.06.05-09.59.20:844][346]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2019.06.05-09.59.20:844][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Test.Test to /Game/Levels/UEDPIE_0_Test.Test (0.005680s)
+[2019.06.05-09.59.20:878][346]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.06.05-09.59.20:888][346]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.05-09.59.20:903][346]LogInit: FAudioDevice initialized.
+[2019.06.05-09.59.20:934][346]LogLoad: Game class is 'GameMode1_C'
+[2019.06.05-09.59.20:936][346]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2019.06.05-11.59.20
+[2019.06.05-09.59.20:937][346]LogWorld: Bringing up level for play took: 0.001784
+[2019.06.05-09.59.20:951][346]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Test 1,061
+[2019.06.05-09.59.20:951][346]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-10.00.27:700][324]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-10.00.27:701][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-10.00.27:736][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.05-10.00.27:737][324]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Test.Test:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Test.Test:PersistentLevel.Test' with GeneratedClass '/Game/Levels/Test.Test_C' with ClassGeneratedBy '/Game/Levels/Test.Test:PersistentLevel.Test'
+[2019.06.05-10.00.27:775][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-10.00.27:779][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.06.05-10.00.27:800][326]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.06.05-10.00.33:811][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-10.00.44:569][939]BlueprintLog: New page: Compile Dragon
+[2019.06.05-10.00.44:726][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.06.05-10.01.03:701][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BIrd" FILE="C:/Users/Jelmer/Documents/Unreal Projects/BirdChase/Content/Blueprints/BIrd.uasset" SILENT=true
+[2019.06.05-10.01.03:746][940]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.05-10.01.05:088][940]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.342 s
+[2019.06.05-10.01.05:088][940]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.05-10.01.05:088][940]LogOutputDevice: Error: 
+[2019.06.05-10.01.05:088][940]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2019.06.05-10.01.05:088][940]LogOutputDevice: Error: Found circular redirect from /Game/Blueprints/BIrd.BIrd to /Game/Blueprints/Bird.Bird! Returning None instead
+[2019.06.05-10.01.05:088][940]LogOutputDevice: Error: Stack: 
+[2019.06.05-10.01.05:088][940]LogOutputDevice: Error: [Callstack] 0x00007ffed55f2690 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed52c4d22 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed554c2ca UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed55574c9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed52f9017 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed52906c3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed5557113 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed540533c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed5517d99 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed55180a1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed540736c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed5405412 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed5517d99 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed54bdced UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed55180a1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed540736c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed54be3f3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed54bc9f7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed54bc6f4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffec436ffd5 UE4Editor-Engine.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffec436fb0c UE4Editor-Engine.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed54fc315 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed551b619 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed5503f55 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffec2c19ddb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffec2c1a757 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffec2c4fce4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffec2c4c5b5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffec33de54a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffec2f8d764 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffec2f8c2d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffec2f9fde2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffeb479b1b3 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffeb475ab33 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffeb47aa9d7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffeb35f2fde UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffeb3656f11 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffeb369dda4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffeb35d0e4d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffeb35b3d59 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed4f6b61a UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed4f3ee59 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed4f9cc60 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed4da5efe UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed4d9e8ff UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed4d8a506 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffed4d7ff82 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffefbf5b932 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffefbf4ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffefbf5d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffefbf4c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007fff1af76d41 USER32.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007fff1af76713 USER32.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ffefbf5e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ff74c765d3e UE4Editor.exe!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ff74c77554c UE4Editor.exe!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ff74c7755ca UE4Editor.exe!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ff74c78316c UE4Editor.exe!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007ff74c785b8e UE4Editor.exe!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007fff1ad84034 KERNEL32.DLL!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: [Callstack] 0x00007fff1b3b3691 ntdll.dll!UnknownFunction []
+[2019.06.05-10.01.05:089][940]LogOutputDevice: Error: 
+[2019.06.05-10.01.05:091][940]LogStats:                SubmitErrorReport -  0.000 s
